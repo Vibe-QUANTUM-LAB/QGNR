@@ -34,7 +34,7 @@ transport as the training signal.
 ### 1. Clone and enter the repo
 
 ```bash
-git clone https://github.com/Vibe-QUANTUM-LAB/QGNR.git
+git clone https://github.com/TJU-QUANTUM-LAB/QGNR.git
 cd QGNR-main
 ```
 
